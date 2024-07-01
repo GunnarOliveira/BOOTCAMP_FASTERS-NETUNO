@@ -1,0 +1,5 @@
+Caro, visitante. Acabei dando uma misturada e alguns scripts foram criados no visualg 2.5 e outros na versão 3.0.7.0.
+Caso, veja que o script não funcionou, tente comparar o resultado das duas versões já citadas.
+
+OBS: Optei por atuar majoritariamente na versão 2.5, já que é a utilizada no curso
+do professor Gustavo Guanabara no canal do Curso em vídeo; https://www.cursoemvideo.com/curso/curso-de-algoritmo/
