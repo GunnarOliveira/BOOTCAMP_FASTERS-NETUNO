@@ -39,5 +39,3 @@ Este projeto JavaScript interativo permite aos usuários criar um avatar persona
 - **🎨 ASCII Art:** O projeto também incorpora arte ASCII para criar uma experiência visual mais imersiva e estilizada no terminal. Isso é especialmente visível na apresentação inicial e em mensagens de feedback.
 
 - **🚀 JavaScript vs. VisualG:** A escolha por JavaScript, ao invés de VisualG, foi motivada pela capacidade do JavaScript em suportar funções assíncronas de forma nativa, facilitando a interação fluída com o usuário. Além disso, o ecossistema Node.js oferece uma vasta gama de bibliotecas que enriquecem o desenvolvimento de aplicações de linha de comando, permitindo implementações mais robustas e dinâmicas.
-
-Este projeto não apenas facilita a criação de um avatar personalizado, mas também demonstra o uso de tecnologias avançadas para enriquecer a experiência do usuário e aumentar a eficiência na interação com o sistema. Ideal para quem deseja explorar a interseção entre desenvolvimento de software, arte ASCII e inteligência artificial aplicada a interfaces de usuário.
